@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WifiOff", "ConsoleWifi\WifiOff.csproj", "{9F6E1648-FB93-477C-8413-5C9B6C3054F3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WiFi Start", "WiFi Start\WiFi Start.csproj", "{F140E5BB-8404-49F7-807F-C519C149F6D6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryWifi", "LibraryWifi\LibraryWifi.csproj", "{2D48FEBF-9499-4CA0-8137-74F965C13242}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinWIFITaim", "WinWIFITaim\WinWIFITaim.csproj", "{AB65BAF1-D327-4D20-95A3-AC966B6AAC67}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryTime", "LibraryTime\LibraryTime.csproj", "{531C1C13-5CF3-42FA-93FB-8DFA9CB4E498}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiberyScan", "LiberiScan\LiberyScan.csproj", "{C6AAEAE0-A907-42D0-B3F2-001A350781A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F6E1648-FB93-477C-8413-5C9B6C3054F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F6E1648-FB93-477C-8413-5C9B6C3054F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F6E1648-FB93-477C-8413-5C9B6C3054F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F6E1648-FB93-477C-8413-5C9B6C3054F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F140E5BB-8404-49F7-807F-C519C149F6D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F140E5BB-8404-49F7-807F-C519C149F6D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F140E5BB-8404-49F7-807F-C519C149F6D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F140E5BB-8404-49F7-807F-C519C149F6D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D48FEBF-9499-4CA0-8137-74F965C13242}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D48FEBF-9499-4CA0-8137-74F965C13242}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D48FEBF-9499-4CA0-8137-74F965C13242}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D48FEBF-9499-4CA0-8137-74F965C13242}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB65BAF1-D327-4D20-95A3-AC966B6AAC67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB65BAF1-D327-4D20-95A3-AC966B6AAC67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB65BAF1-D327-4D20-95A3-AC966B6AAC67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB65BAF1-D327-4D20-95A3-AC966B6AAC67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{531C1C13-5CF3-42FA-93FB-8DFA9CB4E498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{531C1C13-5CF3-42FA-93FB-8DFA9CB4E498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{531C1C13-5CF3-42FA-93FB-8DFA9CB4E498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{531C1C13-5CF3-42FA-93FB-8DFA9CB4E498}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6AAEAE0-A907-42D0-B3F2-001A350781A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6AAEAE0-A907-42D0-B3F2-001A350781A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6AAEAE0-A907-42D0-B3F2-001A350781A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6AAEAE0-A907-42D0-B3F2-001A350781A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F786D1FF-E801-4FC3-A2F3-F295280C7480}
+	EndGlobalSection
+EndGlobal
